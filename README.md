@@ -1,2 +1,2 @@
 # CyberSecurity-Project
-A web-based information system connected to a relational database
+A web-based information system using a relational database
